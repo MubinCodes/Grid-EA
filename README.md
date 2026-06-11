@@ -34,6 +34,35 @@ This EA is mainly suitable for sideways or range-bound market conditions.
 
 ---
 
+---
+
+## Screenshots
+
+### EA Input Settings
+
+![EA Input Settings](screenshots/input-settings.png)
+
+### Grid Chart Preview
+
+![Grid Chart Preview](screenshots/chart-preview.png)
+
+### Strategy Tester Graph
+
+![Strategy Tester Graph](screenshots/Graph%201%20month.png)
+
+### Strategy Tester Report
+
+![Strategy Tester Report](screenshots/Report%201%20month.png)
+
+
+---
+
+## Backtest Note
+
+The strategy tester screenshots are provided for demonstration purposes only.
+
+Backtest results depend on symbol, timeframe, broker conditions, spread, commission, market behavior, and input settings. These results should not be considered financial advice or a guarantee of future performance.
+
 ## How It Works
 
 The EA works around predefined grid levels.
